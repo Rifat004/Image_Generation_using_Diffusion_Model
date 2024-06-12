@@ -1,6 +1,6 @@
 # Image Generation Using Diffusion Model
 
-![Generating Dragon](image_url)
+![](horse_to_dragon.png)
 
 This task involves generating images using a diffusion model, with a specific focus on the Stable Diffusion inpainting pipeline. The primary goal is to transform random noise or partially masked images into coherent and visually appealing outputs based on textual prompts. The notebook provided outlines a comprehensive process from setting up the environment to experimenting with different model parameters.
 
